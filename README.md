@@ -70,10 +70,10 @@ To run this project locally, follow these steps:
 ```
 Semantic Book Recommender with LLM/
 ├── dataset/
-│   └── books_with_emotions.csv
-|    └── books_with_emotions.csv
-|    └── books_with_emotions.csv
-|    └── books_with_emotions.csv
+│   └── books.csv
+|   └── books_cleaned.csv
+|   └── books_with_categories.csv
+|   └── books_with_emotions.csv
 |
 ├── chroma_db/
 │   └── (precomputed embeddings)
