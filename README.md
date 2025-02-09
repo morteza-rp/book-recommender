@@ -2,7 +2,7 @@
 
 Welcome to the **Semantic Book Recommender with LLM**! This project leverages the power of semantic search and natural language processing to help you discover books that match your interests, mood, and preferences. Whether you're looking for a philosophical sci-fi novel or a cozy mystery, this tool will provide personalized recommendations based on your input.
 
-<iframe width="560" height="315" src="dataset\2025-02-09-23-36-40.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="dataset\2025-02-09-23-36-40.mp4" width="320" height="240" controls></video>
 ---
 
 ## 🚀 Features
